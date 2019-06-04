@@ -64,3 +64,13 @@ footer.page-footer {
 .rojoCrossway2{
   color : #971235;
 }
+
+#logo {
+  width: 26%;
+  height: 100%;
+}
+
+#logo_mobile {  
+  width: 27%;
+  height: auto;
+}
