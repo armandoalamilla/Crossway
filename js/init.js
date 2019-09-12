@@ -19,5 +19,3 @@ document.getElementById("rs_face").addEventListener("click", function abre() {
   
 });
 
-
-
