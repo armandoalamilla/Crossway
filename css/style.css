@@ -89,5 +89,10 @@ footer.page-footer {
     position:absolute;
 }
 
+.center2 {
+  margin: auto;
+  width: 50%;
 
+  padding: 10px;
+}
 
