@@ -116,7 +116,7 @@ $("#conf_9").click(function() {
 var conf_10 = `Blue Green
 Tema: Historia de Sargablock
 Fecha y hora: Viernes 15 a las 10:00 a.m.
-Lugar: La Novela
+Lugar: Centro de Congresos
 `
 $("#conf_10").click(function() {
   swal({
@@ -137,6 +137,17 @@ $("#conf_11").click(function() {
   });
 });
 
+var conf_12 = `
+Tema: Proyectos para desarrollo urbano de MTY
+Fecha y hora: Viernes 14 a las 5:35 p.m.
+Lugar: Auditorio Biblioteca B6
+`
+$("#conf_12").click(function() {
+  swal({
+    title: "Jose Lobaton",
+    text: conf_12,
+  });
+});
 
 
 
