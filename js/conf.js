@@ -3,7 +3,7 @@
 
 var conf_1 = `LeNoir & Asociados
 Tema: Herramientas de la arquitectura
-Fecha y hora:  Miércoles 13 a las 10:00 a.m.
+Fecha y hora:  Miércoles 13 a las 9:45 a.m.
 Lugar: Centro de Congresos
 `
 
@@ -16,7 +16,7 @@ $("#conf_1").click(function() {
 
 var conf_2 = `Populous
 Tema: Arquitectura efímera en obras deportivas 
-Fecha y hora:  Jueves 14 a las 5:45 p.m.
+Fecha y hora:  Jueves 14 a las 5:35 p.m.
 Lugar: Centro de Congresos
 `
 
@@ -29,20 +29,20 @@ $("#conf_2").click(function() {
 
 var conf_3 = `IDOM
 Tema: Proyecto del Estadio de Fútbol San Mamés Proceso de proyecto, obra e intervención estructural
-Fecha y hora: Miércoles 13 a las 11:30 a.m. 
+Fecha y hora: Miércoles 13 a las 11:35 a.m. 
 Lugar: Centro de Congresos
 `
 
 $("#conf_3").click(function() {
   swal({
-    title: "César Aitor Azcárate Gómez",
+    title: "Marco Suárez",
     text: conf_3,
   });
 });
 
 var conf_4 = `MACH
 Tema: Fábrica de edificios
-Fecha y hora: Viernes 15 a las 9:00 a.m.
+Fecha y hora: Jueves 14 a las 4:00 p.m.
 Lugar: Centro de Congresos
 `
 
@@ -55,7 +55,7 @@ $("#conf_4").click(function() {
 
 var conf_5 = `GLR Arquitectos
 Tema: Conversaciones con el paisaje
-Fecha y hora: Miércoles 13 a las 1:15 p.m. 
+Fecha y hora: Viernes 15 a las 2:45 p.m. 
 Lugar: Centro de Congresos
 `
 $("#conf_5").click(function() {
@@ -79,7 +79,7 @@ $("#conf_6").click(function() {
 
 var conf_7 = `Consultor independiente de Presas y Proyectos Hidroeléctricos 7
 Tema: Deslizamiento de tierra y roca del 2007 en el río grijalva, un caso de resiliencia resuelto exitosamente por la ingeniería mexicana.
-Fecha y hora:  Jueves 14 a las 9:30 am
+Fecha y hora:  Jueves 14 a las 9:00 a.m.
 Lugar: Auditorio Biblioteca
 `
 $("#conf_7").click(function() {
@@ -91,7 +91,7 @@ $("#conf_7").click(function() {
 
 var conf_8 = `RECSA
 Tema: Retos para construir un méxico nuevo, túnel emisor poniente ii
-Fecha y hora: Jueves 14 a las 14 2:30
+Fecha y hora: Jueves 14 a las 14 2:30 p.m.
 Lugar: Centro de Congresos
 `
 $("#conf_8").click(function() {
@@ -103,7 +103,7 @@ $("#conf_8").click(function() {
 
 var conf_9 = `BEA
 Tema: Edificación Sustentable: Vanguardia y Tendencias Globales
-Fecha y hora:  Miércoles 13 a las 1:15 p.m.
+Fecha y hora:  Miércoles 13 a las 1:10 p.m.
 Lugar: Auditorio A6
 `
 $("#conf_9").click(function() {
@@ -115,7 +115,7 @@ $("#conf_9").click(function() {
 
 var conf_10 = `Blue Green
 Tema: Historia de Sargablock
-Fecha y hora: Jueves 14 a las 4:00 p.m.
+Fecha y hora: Viernes 15 a las 10:00 a.m.
 Lugar: La Novela
 `
 $("#conf_10").click(function() {
